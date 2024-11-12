@@ -10,7 +10,7 @@ Technologies: NestJS, React, Kotlin, MongoDB, Firebase, Open Street Map
 
 ### Repositories:
 
-- React web page: https://github.com/nt4rever/xbus-react
-- NestJs backend: https://github.com/nt4rever/xbus-nest
-- Android app for citizen: https://github.com/nt4rever/xbus
-- Android app for bus driver: https://github.com/nt4rever/xbusdrive
+- [React web page](https://github.com/nt4rever/xbus-react)
+- [NestJs backend](https://github.com/nt4rever/xbus-nest)
+- [Android app for citizen](https://github.com/nt4rever/xbus)
+- [Android app for bus driver](https://github.com/nt4rever/xbusdrive)
